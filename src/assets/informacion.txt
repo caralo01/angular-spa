@@ -1,0 +1,14 @@
+---------------------------------------------
+Comandos angular-cli
+---------------------------------------------
+ng new [proyecto] --> crea proyecto
+ng serve --> abre puerto 4200
+
+ng g c [destino/nombre] --> crea componente
+
+
+---------------------------------------------
+Importar librerias con angular-cli
+---------------------------------------------
+1.npm install jquery
+2.
